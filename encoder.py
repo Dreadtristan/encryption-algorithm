@@ -7,7 +7,7 @@ loop2 = True
 loop22 = 0
 loop3 = True
 loop4 = True
-version = 1.0
+version = 1.1
 print("Dreadtristan's encryption algorithm")
 print(version)
 while loop1 == True:
