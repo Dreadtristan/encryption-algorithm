@@ -124,8 +124,6 @@ while loop1 == True:
         coder.append("!")
         coder2.append("j")
     if inpot == "print":
-        print("core")
-        print(coder)
         print("encoder")
         print(coder2)
     if inpot == "clear":
