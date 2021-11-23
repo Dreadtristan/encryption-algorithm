@@ -1,4 +1,4 @@
-
+#Dreadtristan's encryption algorithm
 coder = []
 coder2 = []
 loop1 = True
@@ -7,6 +7,9 @@ loop2 = True
 loop22 = 0
 loop3 = True
 loop4 = True
+version = 1.0
+print("Dreadtristan's encryption algorithm")
+print(version)
 while loop1 == True:
     inpot = input("encoder: ")
     count += 1
